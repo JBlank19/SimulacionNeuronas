@@ -1,0 +1,12 @@
+N
+tiempo total
+vp
+eta mu
+sigma
+dt
+J
+num rasterplot
+I0
+start estimulo
+end estimulo
+raster bool
