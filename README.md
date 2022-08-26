@@ -17,7 +17,7 @@ Windows:
 
 Linux:
  1. Abre la terminal
- 2. Ve al directorio donde está main.py escribiendo cd C:...\main.py (cambiándolo esto según sea el camino correcto).
+ 2. Ve al directorio donde está main.py escribiendo cd /.../KSModel.py (cambiándolo esto según sea el camino correcto).
  3. Ejecuta el código con ./main.py
 
 # Uso
