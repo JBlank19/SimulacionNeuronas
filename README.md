@@ -10,13 +10,13 @@ Numpy, matplotlib y PyQt5
 
 El archivo de descarga consiste en 5 .py Python3 y 2 .txt. Para hacer funcionar el código tan solo hay que ejecutar main.py. La descarga será:
 Windows:
-Abre la terminal escribiendo cmd en la barra de búsqueda.
-Ve al directorio donde está main.py escribiendo cd C:...\main.py (cambiándolo esto según sea el camino correcto).
-Escribe python main.py
+ 1. Abre la terminal escribiendo cmd en la barra de búsqueda.
+ 2. Ve al directorio donde está main.py escribiendo cd C:...\main.py (cambiándolo esto según sea el camino correcto).
+ 3. Escribe python main.py
 Linux:
-Abre la terminal
-Ve al directorio donde está main.py escribiendo cd C:...\main.py (cambiándolo esto según sea el camino correcto).
-Ejecuta el código con ./main.py
+ 1. Abre la terminal
+ 2. Ve al directorio donde está main.py escribiendo cd C:...\main.py (cambiándolo esto según sea el camino correcto).
+ 3. Ejecuta el código con ./main.py
 
 # Uso
 
@@ -26,17 +26,17 @@ En el medio a la izquierda tenemos el potencial de membrana medio de todas las n
  
 Abajo a la izquierda tenemos el estímulo externo en forma de función escalón. Es interesante verlo para observar cuando tienen mayor actividad las neuronas.
 A la derecha tenemos las cajas y botones de control del programa. Ninguna es a tiempo real, todas necesitan que se vuelva a ejecutar el programa. De arriba abajo:
-Seleccionador para escoger visualizar el raster plot o el potencial de membrana.
-Número total de neuronas en la población.
-Tiempo total de simulación.
-Número de neuronas mostradas en el raster plot.
-Constante de acoplamiento J aplicada en los modelos.
-Intervalo de tiempo para la integración dt.
-Potencial pico Vp para el modelo QIF (Vr se ha fijado como el valor negativo de Vp).
-Media de la distribución lorentziana de las etas de las neuronas.
-Desviación de la distribución lorentziana de las etas de las neuronas.
-Amplitud del estímulo externo en forma de escalón.
-Momento de inicio del estímulo externo.
-Momento de fin del estímulo externo.
-Cerrar: Cierra el programa.
-Reset: Resetea el programa guardando las variables escritas en new_vars.txt.
+  - Seleccionador para escoger visualizar el raster plot o el potencial de membrana.
+  - Número total de neuronas en la población.
+  - Tiempo total de simulación.
+  - Número de neuronas mostradas en el raster plot.
+  - Constante de acoplamiento J aplicada en los modelos.
+  - Intervalo de tiempo para la integración dt.
+  - Potencial pico Vp para el modelo QIF (Vr se ha fijado como el valor negativo de Vp).
+  - Media de la distribución lorentziana de las etas de las neuronas.
+  - Desviación de la distribución lorentziana de las etas de las neuronas.
+  - Amplitud del estímulo externo en forma de escalón.
+  - Momento de inicio del estímulo externo.
+  - Momento de fin del estímulo externo.
+  - Cerrar: Cierra el programa.
+  - Reset: Resetea el programa guardando las variables escritas en new_vars.txt.
