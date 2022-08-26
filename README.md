@@ -9,10 +9,12 @@ Numpy, matplotlib y PyQt5
 # Instalación
 
 El archivo de descarga consiste en 5 .py Python3 y 2 .txt. Para hacer funcionar el código tan solo hay que ejecutar main.py. La descarga será:
+
 Windows:
  1. Abre la terminal escribiendo cmd en la barra de búsqueda.
  2. Ve al directorio donde está main.py escribiendo cd C:...\main.py (cambiándolo esto según sea el camino correcto).
  3. Escribe python main.py
+
 Linux:
  1. Abre la terminal
  2. Ve al directorio donde está main.py escribiendo cd C:...\main.py (cambiándolo esto según sea el camino correcto).
